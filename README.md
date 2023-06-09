@@ -1,4 +1,4 @@
-👋 #Hi#, I’m @dinorigami \n
+👋 Hi, I’m @dinorigami \n
 👀 I’m interested in web and game developping (HTML, Python, Javascript)\n
 🌱 I’m currently creating a game with @louiswan11\n
 <!---
